@@ -4,8 +4,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...on RhombusItSolutions
-- 🌱 I’m currently learning ...Angular Js
-- 👯 I’m looking to collaborate on ...Angular Js
+- 🌱 I’m currently learning ...NodeJS
+- 👯 I’m looking to collaborate on ...Node Js
 - 🤔 I’m looking for help with ...Rhombus
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...My Website[https://dilshadshibin.com/]
