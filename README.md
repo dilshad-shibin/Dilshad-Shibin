@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Iam Half Finish
 -->
+
+###Languages and Tools
+HTML, CSS, BOOTSTRAP, JAVASCRIPT, JQUERY, GIT, GITHUB, PHOTOSHOP, FIGMA
