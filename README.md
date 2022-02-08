@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ###Languages and Tools
+
 HTML, CSS, BOOTSTRAP, JAVASCRIPT, JQUERY, GIT, GITHUB, PHOTOSHOP, FIGMA
