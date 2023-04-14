@@ -3,9 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...on Qubix Integrated Ltd 
-- 🌱 I’m currently learning ...React
-- 👯 I’m looking to collaborate on ...React Js
+- 🔭 I’m currently working on ...on Viral Mafia Digital Marketing Agency 
+- 🌱 I’m currently learning ...Figma
+- 👯 I’m looking to collaborate on ...React
 - 🤔 I’m looking for help with ...Viralmafia
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...My Website[https://dilshadshibin.com/]
